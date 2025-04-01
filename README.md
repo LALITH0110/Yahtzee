@@ -35,10 +35,7 @@ cd yahtzee-app
 ```
 flutter pub get
 ```
-3. Run the app on macOS simulator:
-```
-flutter run -d macos
-```
+3. Run the app on macOS simulator (Use debug):
 
 ## Screenshots
 
