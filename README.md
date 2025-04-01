@@ -42,7 +42,8 @@ flutter run -d macos
 
 ## Screenshots
 
-(Include screenshots or GIFs showcasing your app in action.)
+<img width="603" alt="Screenshot 2025-04-01 at 12 30 24 PM" src="https://github.com/user-attachments/assets/796f1332-c210-4127-9870-12856eba653d" />
+
 
 ## Future Improvements
 * Multiplayer mode
